@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 '''
 Contains a method that determines if all the boxes can be opened.
 '''
